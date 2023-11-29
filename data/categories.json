@@ -1,5 +1,26 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "children" : [ ],
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.TimeoutException: Message:",
+      "children" : [ {
+        "name" : "Change profile name",
+        "uid" : "7814e465d5822807",
+        "parentUid" : "31bb78a6a95ede3f78b260ed048910d8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1701281002835,
+          "stop" : 1701281021777,
+          "duration" : 18942
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "31bb78a6a95ede3f78b260ed048910d8"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
   "name" : "categories"
 }

@@ -4,11 +4,19 @@
       "failed" : 0,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 3,
+      "passed" : 4,
       "unknown" : 0,
-      "total" : 4
+      "total" : 5
     },
     "items" : [ {
+      "uid" : "381996c6a0838b41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1701281250598,
+        "stop" : 1701281258622,
+        "duration" : 8024
+      }
+    }, {
       "uid" : "7814e465d5822807",
       "status" : "broken",
       "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",

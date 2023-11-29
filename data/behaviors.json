@@ -4,13 +4,13 @@
     "name" : "Profile Functionality",
     "children" : [ {
       "name" : "Change profile name",
-      "uid" : "433e446f60d8aa9b",
+      "uid" : "6f89880fd7e635d6",
       "parentUid" : "bfe6fb5a25b9d3632e34c1e8a59f2830",
       "status" : "passed",
       "time" : {
-        "start" : 1701279448579,
-        "stop" : 1701279457370,
-        "duration" : 8791
+        "start" : 1701280517469,
+        "stop" : 1701280525303,
+        "duration" : 7834
       },
       "flaky" : false,
       "newFailed" : false,
